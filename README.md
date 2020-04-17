@@ -4,4 +4,4 @@ A simple web application, shows the daily tasks on an analog clock
 * animation js
 * server operations php, mysql
 * tested in azure app service
-* works in chrom and mozilla
+* works in chrome and mozilla
